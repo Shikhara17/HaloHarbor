@@ -1,5 +1,5 @@
 # HaloHarbor
-# Personal Data Guardian
+# Personal Data Vault
 
 ## Introduction
 **Personal Data Guardian** is an innovative personal data management system designed to enhance data privacy and user control. This project leverages cutting-edge federated learning and secure computation technologies to provide robust protection and efficiency in handling personal information.
